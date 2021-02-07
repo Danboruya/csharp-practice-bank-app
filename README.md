@@ -5,7 +5,7 @@
 In this repository, we practice how to write csharp program using bank console application.  
 We use .NET Core library to practice C# program.  
 This practice application refer to C# tutorial on .NET document.  
-[Reference Document on MS .NET page](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
+[Reference document of this repository (MS .NET document page)](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
 
 ## LICENSE
 
